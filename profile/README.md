@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-    <a href="https://playpark.se">Hemsida</a> | <a href="https://discord.gg/playpark">Discord</a> | <a href="https://steamcommunity.com/groups/playpark">Steam</a>
+    <a href="https://playpark.se">Hemsida</a> | <a href="https://discord.playpark.se">Discord</a> | <a href="https://steamcommunity.com/groups/playpark">Steam</a>
 </div>
