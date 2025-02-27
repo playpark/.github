@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://playpark.se/images/logotype.png" alt="Playpark Logo"/>
+    <img src="https://playpark.se/logotype.png" alt="Playpark Logo"/>
 </div>
 
 <div align="center">
